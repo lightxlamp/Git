@@ -12,3 +12,4 @@ New
 New info:
 
 - git add -p index.html - Partial adding. Will ask you about each part of change, whether iy should be added or not
+  Did not get how it works for now. In my case. 3 batches of code in different places adding at the same time
