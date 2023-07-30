@@ -8,3 +8,7 @@ New
   > (use "git restore --staged <file>..." to unstage)
             new file:   test-folder-to-ignore/some_unneeded_file.js
   ... No it is "restore", not reset and "git restore readme.md" did not work for me
+
+New info:
+
+- git add -p index.html - Partial adding. Will ask you about each part of change, whether iy should be added or not
