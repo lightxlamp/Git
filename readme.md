@@ -18,3 +18,11 @@ New info:
   Yeah... Worked like a charm now. > s - split the current hunk into smaller hunks
   Was able to split my code to 3 parts and commit two of them. See screen "before" in img folder
   VSC git extension need some time to show changes after manual operations... But it worked :P Correct Results appeared after adding image
+
+- git commit -am "Commit without gitAdd"
+  Creates commit without "git add ." Two actions at once.
+  But it ignores not-tracked by git files (newly created)
+
+- git commit -m "Ignore other staged files and commit only gitignore" .gitignore
+
+- git add . (Adding only files from current dir) but git add -A (add all files of a project)
