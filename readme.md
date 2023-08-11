@@ -26,3 +26,5 @@ New info:
 - git commit -m "Ignore other staged files and commit only gitignore" .gitignore
 
 - git add . (Adding only files from current dir) but git add -A (add all files of a project)
+
+- Nice - finlay I am here. "Cherry Picking" - When 2 branches have the same bug you can fix it in master and "pull" commit with a fix to your branch. See map in pics. https://www.mindmeister.com/generic_files/get_file/17455360?filetype=attachment_file
